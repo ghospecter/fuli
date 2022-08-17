@@ -453,6 +453,10 @@
             "filterable":0,
             "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E8%8A%B1%E7%8C%ABTV.json"
         },
+        {"key":"csp_biubiu_87影院","name":"87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/87.json"},
+{"key":"csp_biubiu_23影院","name":"23影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/23.json"},
+{"key":"csp_biubiu_31看影视","name":"31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/31.json"},
+{"key":"csp_biubiu_手机看剧","name":"手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXP/sjkj.json"},
         {
             "key":"csp_appysv2_M2_暖光影视",
             "name":"暖光影视",
