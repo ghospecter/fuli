@@ -33,7 +33,7 @@
             "quickSearch":1,
             "filterable":1
         },
-        {"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+        {"key":"csp_293","name":"293(假)","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
         {
             "key":"csp_LiteApple",
             "name":"小苹果(SP)",
@@ -55,7 +55,7 @@
         },
         {
             "key":"360_spider",
-            "name":"360影视（官）",
+            "name":"360影视(官)",
             "api":"csp_SP360",
             "type":3,
             "filterable":1,
