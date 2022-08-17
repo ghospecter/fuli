@@ -34,7 +34,7 @@
             "quickSearch":1,
             "filterable":1
         },
-        {"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+        {"key":"csp_293","name":"293(假)","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
         {
             "key":"csp_LiteApple",
             "name":"小苹果(SP)",
@@ -56,7 +56,7 @@
         },
         {
             "key":"360_spider",
-            "name":"360影视（官）",
+            "name":"360影视(官)",
             "api":"csp_SP360",
             "type":3,
             "filterable":1,
@@ -513,7 +513,7 @@
             "filterable":0,
             "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/4K%E7%94%B5%E5%BD%B1%E7%BD%91.json"
         },
-        { "key": "csp_biubiu_kdys", "name": "口袋影院〔XB〕", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://ygyzy.github.io/api/XBiubiu/kdys.json" },
+        { "key": "csp_biubiu_kdys", "name": "口袋影院(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://ygyzy.github.io/api/XBiubiu/kdys.json" },
         {
             "key":"csp_xpath_dandanzan10",
             "name":"蛋蛋赞(电影)(XPF)",
