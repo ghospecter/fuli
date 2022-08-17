@@ -545,7 +545,7 @@ SING女团】《风陵渡口》歌词版PV[640*360],https://vdse.bdstatic.com//a
 怀旧金曲:刀郎《黄玫瑰》[960*544],https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
 《那一夜》谢军[640*360],https://vdse.bdstatic.com//da6d866213a8bce7b317f508cf702e2e.mp4
 
-⚡️央视秒开,#genre#
+雪舞•央视秒开,#genre#
 CCTV1Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive$易视腾
 CCTV2Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive$易视腾
 CCTV3Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive$易视腾
@@ -564,80 +564,6 @@ CCTV14Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?C
 CCTV15Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=3&channel-id=ystenlive$易视腾
 CCTV16Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?Contentid=1000000006000233002&livemode=1&stbId=3&channel-id=ystenlive$易视腾
 CCTV17Y,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=3&channel-id=ystenlive$易视腾
-
-雪舞•央视频道,#genre#
-CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
-CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
-CCTV-1 综合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-1 综合,http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8
-CCTV-1 综合,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
-CCTV-1 综合,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
-CCTV-2 财经,http://125.210.152.19:9090/live/hzgq-cctv2gq-h264.m3u8
-CCTV-2 财经,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
-CCTV-3 综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
-CCTV-3 综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-CCTV-3 综艺,http://125.210.152.19:9090/live/hzgq-cctv3gq-h264.m3u8
-CCTV-4 中文国际,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
-CCTV-4 中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV-4 欧洲,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-CCTV-5 体育,http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV-5 体育,http://125.210.152.19:9090/live/hzgq-cctv5gq-h264.m3u8
-CCTV-5+ 体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
-CCTV-5+ 体育赛事,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV-5+ 体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
-CCTV-5+ 体育赛事,http://125.210.152.19:9090/live/hzgq-cctvzhgq-h264.m3u8
-CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-CCTV-5+ 体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
-CCTV-6 电影,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
-CCTV-6 电影,http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
-CCTV-6 电影,http://125.210.152.19:9090/live/hzgq-cctv6gq-h264.m3u8
-CCTV-7 国防军事,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
-CCTV-7 国防军事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
-CCTV-7 国防军事,http://125.210.152.19:9090/live/hzgq-cctv7gq-h264.m3u8
-CCTV-7 国防军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-CCTV-8 电视剧,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
-CCTV-8 电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-8 电视剧,http://125.210.152.19:9090/live/hzgq-cctv8gq-h264.m3u8
-CCTV-8 电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-9 纪录,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-CCTV-9 纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-CCTV-9 纪录,http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
-CCTV-10 科教,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
-CCTV-10 科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-CCTV-10 科教,http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
-CCTV-10 科教,http://125.210.152.19:9090/live/hzgq-cctv10gq-h264.m3u8
-CCTV-10 科教,http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
-CCTV-10 科教,http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
-CCTV-11 戏曲,http://125.210.152.19:9090/live/hzgq-cctv11gq-h264.m3u8
-CCTV-11 戏曲,http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
-CCTV-11 戏曲,http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
-CCTV-12 社会与法,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
-CCTV-12 社会与法,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-CCTV-12 社会与法,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
-CCTV-12 社会与法,http://125.210.152.19:9090/live/hzgq-cctv12gq-h264.m3u8
-CCTV-13 新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-14 少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
-CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-CCTV-14 少儿,http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
-CCTV-16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-CCTV-16 奥林匹克,http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
-CCTV-17 农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-CCTV-17 农业农村,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
-CCTV-17 农业农村,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
-CCTV-17 农业农村,http://125.210.152.19:9090/live/hzgq-cctv17gq-h264.m3u8
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CETV1,http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-CETV1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
-CETV2,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-CETV3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-CETV4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
-CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN-英语,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
-CGTN-纪录,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
-CGTN-纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 雪舞•央视蓝光,#genre#
 CCTV8K[1920•1080],http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
