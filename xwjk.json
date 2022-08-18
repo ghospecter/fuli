@@ -36,7 +36,7 @@
         },
         {
             "key":"csp_293",
-            "name":"293（假）",
+            "name":"293(假)",
             "api":"csp_SP293",
             "type":3,
             "filterable":1,
@@ -65,7 +65,7 @@
         },
         {
             "key":"360_spider",
-            "name":"360影视（官）",
+            "name":"360影视(官)",
             "api":"csp_SP360",
             "type":3,
             "filterable":1,
@@ -556,7 +556,7 @@
         },
         {
             "key":"csp_biubiu_kdys",
-            "name":"口袋影院〔XB〕",
+            "name":"口袋影院(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -823,7 +823,7 @@
             "quickSearch":1
         },
         {"key": "csp_Yisou",
-        "name":"易搜盘🎯",
+        "name":"🎯易搜盘",
         "type":3,
         "api":"csp_Yisou",
         "searchable":1,
